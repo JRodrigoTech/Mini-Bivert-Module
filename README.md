@@ -1,10 +1,15 @@
-# Mini Bivert Module
+Reworked Bivert module in a small form factor and easy to solder. You can choose between the two available module types (DMG and Pocket versions) designed to fit perfectly on the Game Boy PCB without any wire.
 
-Reworked Bivert module in a small form factor and easy to solder for Nintendo Game Boy DMG-01. 
+# "Mini Bivert" module for Nintendo Game Boy DMG-01
 
 ![assembled-preview](https://www.jrodrigo.net/wp-content/uploads/2017/12/mini_bivert_mod_dmg-01.jpg)
-
 ![top-bottom-preview](https://www.jrodrigo.net/wp-content/uploads/2017/12/mini_bivert_mod_pcb_topbot.jpg)
+
+# "Pocket Bivert" module for Nintendo Game Boy Pocket MGB-001
+
+![assembled-preview](https://www.jrodrigo.net/wp-content/uploads/2018/06/pocket_bivert_mbg-001-e1529364646840.jpg)
+![top-bottom-preview](https://www.jrodrigo.net/wp-content/uploads/2018/06/pocket_bivert_mbg-001_module-e1529364621512.jpg)
+
 
 ## BOM
 
@@ -15,8 +20,7 @@ Reworked Bivert module in a small form factor and easy to solder for Nintendo Ga
 ```
 
 ## Where to buy :package:
-- [**Tindie** fully assembled and tested](https://www.tindie.com/products/JRodrigo/mini-bivert-module-for-nintendo-game-boy-dmg-01/)
-- **OSHpark** (bare PCBs only) ...soon...
+- [On my **Tindie** Store (Fully assembled and tested)](https://www.tindie.com/products/JRodrigo/bivert-module-for-nintendo-game-boy-dmg-and-pocket/)
 
 ## License
 #### Licenced under [Creative Commons - Attribution and Share Alike](https://github.com/JRodrigoTech/Mini-Bivert-Module/blob/master/LICENSE.md) by [J.Rodrigo](http://www.jrodrigo.net)
