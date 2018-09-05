@@ -15,7 +15,7 @@ Reworked Bivert module in a small form factor and easy to solder. You can choose
 
 ```
  - 1x Perfect Purple PCB
- - 1x 74LVC2GU04DB - SOT-23(Dual Inverter Gate)
+ - 1x 74LVC2GU04 - SOT-23(Dual Inverter Gate)
  - 1x Ceramic Capacitor - 100nF - 0805 (Decoupling Capacitor)
 ```
 
